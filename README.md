@@ -1,2 +1,4 @@
 # hello-world
-just a new repository
+
+Good afternoon,everyone!
+My name is Oliver,this is my first day on Github
